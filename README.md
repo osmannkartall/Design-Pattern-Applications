@@ -6,3 +6,4 @@ It contains 3 projects.
 3. - Simple implementation of adapter pattern.
    - Multi-thread 2D discrete fourier transform calculation with two different synchronization approaches.
    - Responsive gui for the multi-thread dft application.
+   ![Sample Run](https://github.com/osmannkartall/Design-Pattern-Applications/blob/master/runSample.png)
